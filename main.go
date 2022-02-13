@@ -6,8 +6,8 @@ import (
 	"net"
 	"os"
 
-	pb "github.com/jzhang046/grpc-blackhole/blackhole"
-	"github.com/jzhang046/grpc-blackhole/server"
+	pb "github.com/jzhang046/grpc-blackhole-go/blackhole"
+	"github.com/jzhang046/grpc-blackhole-go/server"
 	"google.golang.org/grpc"
 )
 

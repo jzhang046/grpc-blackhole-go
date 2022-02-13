@@ -5,7 +5,7 @@ import (
 	"log"
 	"math/rand"
 
-	pb "github.com/jzhang046/grpc-blackhole/blackhole"
+	pb "github.com/jzhang046/grpc-blackhole-go/blackhole"
 )
 
 func New() pb.BlackHoleServer {

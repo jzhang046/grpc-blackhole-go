@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package blackhole; 
 
-option go_package = "github.com/jzhang046/grpc-blackhole/blackhole";
+option go_package = "github.com/jzhang046/grpc-blackhole-go/blackhole";
 option java_package = "com.github.jzhang046.grpc.blackhole.proto";
 option java_multiple_files = true; 
 

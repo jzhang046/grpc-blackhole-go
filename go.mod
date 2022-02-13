@@ -1,4 +1,4 @@
-module github.com/jzhang046/grpc-blackhole
+module github.com/jzhang046/grpc-blackhole-go
 
 go 1.17
 
